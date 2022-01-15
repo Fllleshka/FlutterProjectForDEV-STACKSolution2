@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745265185630",
+    "project_id": "devstack-database",
+    "storage_bucket": "devstack-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745265185630:android:831354337b00d4a090c5cf",
+        "android_client_info": {
+          "package_name": "com.example.devstack_second_solution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745265185630-2il2t1n3c14pdqjft0fs8p1rdikcltnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS3kLLtq24RiU3u6b_nT09GEhE1cWYKuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745265185630-2il2t1n3c14pdqjft0fs8p1rdikcltnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
